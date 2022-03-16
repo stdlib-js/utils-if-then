@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/utils-if-then",
-  "version": "0.0.7",
+  "version": "0.0.0",
   "description": "If a condition is truthy, invoke `x`; otherwise, invoke `y`.",
   "license": "Apache-2.0",
   "author": {
