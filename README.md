@@ -48,6 +48,8 @@ Alternatively,
 -   If you are using Deno, visit the [`deno` branch][deno-url].
 -   For use in Observable, or in browser/node environments, use the [Universal Module Definition (UMD)][umd] build available on the [`umd` branch][umd-url].
 
+The [branches.md][branches-url] file summarizes the available branches and displays a diagram illustrating their relationships.
+
 </section>
 
 <section class="usage">
@@ -217,6 +219,7 @@ Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
 [deno-url]: https://github.com/stdlib-js/utils-if-then/tree/deno
 [umd-url]: https://github.com/stdlib-js/utils-if-then/tree/umd
 [esm-url]: https://github.com/stdlib-js/utils-if-then/tree/esm
+[branches-url]: https://github.com/stdlib-js/utils-if-then/blob/main/branches.md
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/utils-if-then/main/LICENSE
 
