@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import ifthen from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-if-then@esm/index.mjs';
+import ifthen from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-if-then@v0.1.1-esm/index.mjs';
 ```
 
 #### ifthen( bool, x, y )
@@ -108,7 +108,7 @@ z = ifthen( false, x, y );
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import ceil from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-ceil@esm/index.mjs';
 import repeatString from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-repeat@esm/index.mjs';
-import ifthen from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-if-then@esm/index.mjs';
+import ifthen from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-if-then@v0.1.1-esm/index.mjs';
 
 var z;
 var i;
