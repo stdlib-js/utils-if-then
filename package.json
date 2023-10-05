@@ -42,7 +42,7 @@
   },
   "devDependencies": {
     "@stdlib/bench": "^0.1.0",
-    "@stdlib/math-base-assert-is-nan": "^0.1.0",
+    "@stdlib/math-base-assert-is-nan": "^0.1.1",
     "@stdlib/math-base-special-ceil": "^0.1.0",
     "@stdlib/random-base-randu": "^0.1.0",
     "@stdlib/string-repeat": "^0.1.0",
