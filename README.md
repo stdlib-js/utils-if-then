@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import ifthen from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-if-then@deno/mod.js';
+import ifthen from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-if-then@v0.2.0-deno/mod.js';
 ```
 
 #### ifthen( bool, x, y )
@@ -103,7 +103,7 @@ z = ifthen( false, x, y );
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import ceil from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-ceil@deno/mod.js';
 import repeatString from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-repeat@deno/mod.js';
-import ifthen from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-if-then@deno/mod.js';
+import ifthen from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-if-then@v0.2.0-deno/mod.js';
 
 var z;
 var i;
